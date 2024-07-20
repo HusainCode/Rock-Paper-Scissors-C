@@ -1,7 +1,8 @@
+![Project Status: Completed](https://img.shields.io/badge/Project%20Status-Completed-brightgreen)
+<hr>
 # Rock-Paper-Scissors-C
 This is a Rock, Paper, Scissors game, implemented in C, showcases my programming abilities
-
-![Project Status: Completed](https://img.shields.io/badge/Project%20Status-Completed-brightgreen)
+<hr>
 
 ## Game Mechanics
 - **Random Choices**: A random number generator determines The computer's choice, ensuring each round is unique and 
